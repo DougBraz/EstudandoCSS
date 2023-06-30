@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\estudando-html"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Noticias em Foco"
+	}
+}
